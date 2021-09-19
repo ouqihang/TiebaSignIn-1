@@ -1,11 +1,5 @@
 <div align="center"> 
 <h1 align="center">贴吧签到助手</h1>
-<img src="https://img.shields.io/github/issues/srcrs/TiebaSignIn?color=green">
-<img src="https://img.shields.io/github/stars/srcrs/TiebaSignIn?color=yellow">
-<img src="https://img.shields.io/github/forks/srcrs/TiebaSignIn?color=orange">
-<img src="https://img.shields.io/github/license/srcrs/TiebaSignIn?color=ff69b4">
-<img src="https://img.shields.io/github/languages/code-size/srcrs/TiebaSignIn?color=blueviolet">
-</div>
 
 # 简介
 
